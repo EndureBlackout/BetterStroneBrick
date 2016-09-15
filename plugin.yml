@@ -1,0 +1,9 @@
+name: BetterStoneBrick
+main: me.endureblackout.bettercrackedstone.BCSMain
+version: 1.0
+description: Better StoneBricks mechanic
+author: [EndureBlackout]
+commands:
+  bsb:
+    description: Main Command.
+    usage: "/bsb"
